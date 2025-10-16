@@ -1,0 +1,38 @@
+SELECT * FROM 1toinf.Sellers;
+
+INSERT INTO Transactions Values(200001, 100001,'M', Now());
+INSERT INTO Transactions Values(200002, 100002,'S', Now());
+INSERT INTO Transactions Values(200003, 100002,'S', Now());
+INSERT INTO Transactions Values(200008, 100003,'S', Now());
+INSERT INTO Transactions Values(200009, 100010,'S', Now());
+INSERT INTO Transactions Values(200001, 100001,'M', Now());
+INSERT INTO Transactions Values(200007, 100002,'S', Now());
+INSERT INTO Transactions Values(200002, 100002,'S', Now());
+INSERT INTO Transactions Values(200002, 100003,'S', Now());
+INSERT INTO Transactions Values(200002, 100010,'S', Now());
+INSERT INTO Transactions Values(200001, 100001,'M', Now());
+INSERT INTO Transactions Values(200002, 100002,'S', Now());
+INSERT INTO Transactions Values(200003, 100002,'S', Now());
+INSERT INTO Transactions Values(200008, 100003,'S', Now());
+INSERT INTO Transactions Values(200009, 100010,'S', Now());
+INSERT INTO Transactions Values(200001, 100001,'M', Now());
+INSERT INTO Transactions Values(200007, 100002,'S', Now());
+INSERT INTO Transactions Values(200002, 100002,'S', Now());
+INSERT INTO Transactions Values(200002, 100003,'S', Now());
+INSERT INTO Transactions Values(200002, 100010,'S', Now());
+INSERT INTO Transactions Values(200001, 100001,'M', Now());
+INSERT INTO Transactions Values(200002, 100002,'S', Now());
+INSERT INTO Transactions Values(200003, 100002,'S', Now());
+INSERT INTO Transactions Values(200008, 100003,'S', Now());
+INSERT INTO Transactions Values(200009, 100010,'S', Now());
+INSERT INTO Transactions Values(200001, 100901,'M', Now());
+INSERT INTO Transactions Values(200007, 100802,'S', Now());
+INSERT INTO Transactions Values(200002, 100002,'S', Now());
+INSERT INTO Transactions Values(200002, 100103,'S', Now());
+INSERT INTO Transactions Values(200002, 109010,'S', Now());
+INSERT INTO Transactions Values(200001, 108001,'M', Now());
+INSERT INTO Transactions Values(200002, 100702,'S', Now());
+INSERT INTO Transactions Values(200003, 100602,'S', Now());
+INSERT INTO Transactions Values(200008, 100503,'S', Now());
+
+select * from sellers;
