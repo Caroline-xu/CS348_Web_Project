@@ -1,0 +1,251 @@
+cid,gender,typename
+100001,Male,Wallets & Card Holders
+100002,Female,Wallets & Card Holders
+100003,Male,Sweaters
+100004,Male,Tech
+100005,Female,Jackets & Coats
+100006,Female,Espadrilles
+100007,Male,Gloves
+100008,Female,Jewelry
+100009,Female,Watches
+100010,Female,Duffle Bags
+100011,Female,Espadrilles
+100012,Male,Sweaters
+100013,Male,Espadrilles
+100014,Male,Duffle Bags
+100015,Female,Jackets & Coats
+100016,Male,Belts & Suspenders
+100017,Female,Messenger Bags
+100018,Male,Monkstraps
+100019,Female,Tops
+100020,Female,Swimwear
+100021,Male,Lace Ups & Oxfords
+100022,Male,Underwear & Loungewear
+100023,Female,Duffle Bags
+100024,Female,Espadrilles
+100025,Female,Duffle Bags
+100026,Male,Sandals
+100027,Male,Swimwear
+100028,Female,Travel Bags
+100029,Male,Suits & Blazers
+100030,Male,Underwear & Loungewear
+100031,Male,Ties
+100032,Female,Tech
+100033,Female,Swimwear
+100034,Male,Boat Shoes & Moccasins
+100035,Male,Wallets & Card Holders
+100036,Male,Espadrilles
+100037,Female,Shorts
+100038,Female,Pants
+100039,Female,Swimwear
+100040,Male,Gloves
+100041,Male,Sweaters
+100042,Male,Messenger Bags
+100043,Female,Hats
+100044,Female,Underwear & Loungewear
+100045,Female,Messenger Bags
+100046,Male,Pouches & Document Holders
+100047,Female,Umbrellas
+100048,Female,Wallets & Card Holders
+100049,Male,Lace Ups & Oxfords
+100050,Female,Tops
+100051,Female,Jeans
+100052,Male,Scarves
+100053,Male,Watches
+100054,Male,Ties
+100055,Female,Espadrilles
+100056,Female,Keychains
+100057,Female,Tote Bags
+100058,Male,Briefcases
+100059,Female,Messenger Bags
+100060,Female,Umbrellas
+100061,Female,Boots
+100062,Female,Ties
+100063,Male,Jewelry
+100064,Female,Monkstraps
+100065,Male,Pants
+100066,Male,Sandals
+100067,Male,Umbrellas
+100068,Male,Briefcases
+100069,Female,Jewelry
+100070,Female,Hats
+100071,Male,Travel Bags
+100072,Male,Swimwear
+100073,Male,Travel Bags
+100074,Female,Underwear & Loungewear
+100075,Female,Pouches & Document Holders
+100076,Male,Tops
+100077,Female,Keychains
+100078,Female,Backpacks
+100079,Male,Underwear & Loungewear
+100080,Female,Duffle Bags
+100081,Female,Socks
+100082,Female,Umbrellas
+100083,Male,Umbrellas
+100084,Male,Tops
+100085,Male,Suits & Blazers
+100086,Male,Sweaters
+100087,Female,Hats
+100088,Female,Tech
+100089,Male,Pants
+100090,Male,Duffle Bags
+100091,Female,Scarves
+100092,Female,Wallets & Card Holders
+100093,Male,Boat Shoes & Moccasins
+100094,Male,Gloves
+100095,Male,Backpacks
+100096,Male,Ties
+100097,Female,Scarves
+100098,Male,Watches
+100099,Female,Keychains
+100100,Female,Watches
+100101,Male,Sweaters
+100102,Male,Keychains
+100103,Female,Wallets & Card Holders
+100104,Female,Jackets & Coats
+100105,Male,Espadrilles
+100106,Female,Sweaters
+100107,Male,Sweaters
+100108,Male,Swimwear
+100109,Male,Tops
+100110,Male,Lace Ups & Oxfords
+100111,Male,Shirts
+100112,Male,Gloves
+100113,Male,Eyewear
+100114,Male,Backpacks
+100115,Female,Watches
+100116,Male,Briefcases
+100117,Male,Watches
+100118,Male,Face Masks
+100119,Female,Backpacks
+100120,Male,Watches
+100121,Male,Sweaters
+100122,Male,Monkstraps
+100123,Female,Boat Shoes & Moccasins
+100124,Male,Espadrilles
+100125,Female,Boat Shoes & Moccasins
+100126,Male,Sandals
+100127,Male,Jeans
+100128,Female,Tote Bags
+100129,Female,Socks
+100130,Male,Shirts
+100131,Male,Lace Ups & Oxfords
+100132,Female,Pocket Squares & Tie Bars
+100133,Male,Boots
+100134,Female,Wallets & Card Holders
+100135,Female,Pants
+100136,Male,Jeans
+100137,Female,Suits & Blazers
+100138,Male,Pouches & Document Holders
+100139,Female,Briefcases
+100140,Female,Jeans
+100141,Male,Wallets & Card Holders
+100142,Female,Ties
+100143,Female,Sweaters
+100144,Male,Lace Ups & Oxfords
+100145,Female,Lace Ups & Oxfords
+100146,Female,Boat Shoes & Moccasins
+100147,Female,Watches
+100148,Male,Travel Bags
+100149,Male,Travel Bags
+100150,Female,Boat Shoes & Moccasins
+100151,Female,Swimwear
+100152,Female,Shorts
+100153,Male,Briefcases
+100154,Female,Pocket Squares & Tie Bars
+100155,Male,Swimwear
+100156,Female,Sweaters
+100157,Female,Pants
+100158,Male,Boots
+100159,Female,Sweaters
+100160,Female,Pants
+100161,Male,Lace Ups & Oxfords
+100162,Male,Backpacks
+100163,Male,Jackets & Coats
+100164,Female,Tech
+100165,Female,Shirts
+100166,Female,Eyewear
+100167,Female,Boots
+100168,Female,Jackets & Coats
+100169,Female,Boots
+100170,Male,Scarves
+100171,Female,Tech
+100172,Female,Jackets & Coats
+100173,Male,Travel Bags
+100174,Female,Shirts
+100175,Male,Tech
+100176,Female,Face Masks
+100177,Female,Face Masks
+100178,Male,Hats
+100179,Female,Pants
+100180,Male,Pants
+100181,Female,Travel Bags
+100182,Female,Shirts
+100183,Male,Keychains
+100184,Female,Jewelry
+100185,Female,Pouches & Document Holders
+100186,Female,Keychains
+100187,Male,Eyewear
+100188,Male,Jeans
+100189,Male,Boots
+100190,Female,Wallets & Card Holders
+100191,Male,Face Masks
+100192,Male,Wallets & Card Holders
+100193,Female,Gloves
+100194,Male,Tech
+100195,Male,Duffle Bags
+100196,Male,Duffle Bags
+100197,Male,Shorts
+100198,Male,Wallets & Card Holders
+100199,Female,Tote Bags
+100200,Male,Socks
+100201,Male,Tote Bags
+100202,Male,Keychains
+100203,Female,Jackets & Coats
+100204,Male,Socks
+100205,Male,Sweaters
+100206,Male,Boots
+100207,Female,Jackets & Coats
+100208,Male,Gloves
+100209,Female,Jeans
+100210,Female,Tech
+100211,Female,Belts & Suspenders
+100212,Male,Suits & Blazers
+100213,Male,Scarves
+100214,Male,Pocket Squares & Tie Bars
+100215,Female,Pouches & Document Holders
+100216,Male,Shirts
+100217,Male,Duffle Bags
+100218,Male,Backpacks
+100219,Male,Socks
+100220,Male,Tops
+100221,Female,Tops
+100222,Female,Eyewear
+100223,Male,Pocket Squares & Tie Bars
+100224,Male,Wallets & Card Holders
+100225,Male,Boots
+100226,Male,Pants
+100227,Male,Underwear & Loungewear
+100228,Female,Boat Shoes & Moccasins
+100229,Female,Boots
+100230,Female,Travel Bags
+100231,Female,Briefcases
+100232,Female,Shirts
+100233,Female,Sweaters
+100234,Male,Umbrellas
+100235,Female,Face Masks
+100236,Male,Hats
+100237,Male,Jackets & Coats
+100238,Female,Shirts
+100239,Female,Travel Bags
+100240,Female,Pants
+100241,Male,Lace Ups & Oxfords
+100242,Male,Sandals
+100243,Male,Backpacks
+100244,Female,Jackets & Coats
+100245,Male,Pants
+100246,Female,Lace Ups & Oxfords
+100247,Female,Shirts
+100248,Female,Scarves
+100249,Male,Espadrilles
+100250,Male,Gloves
